@@ -1,0 +1,22 @@
+# Archivos de sistema
+.DS_Store
+
+# Configuración local
+.vscode/
+
+# Entornos virtuales
+venv/
+.venv/
+
+# Compilados de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Checkpoints de Jupyter
+.ipynb_checkpoints/
+
+# Archivos temporales o de logs
+*.log
+*.tmp
